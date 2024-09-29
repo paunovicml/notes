@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb21739f-36d9-43b9-bba1-bdeac76123f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/controllers/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +29,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="2mRPoIE2Jlfr6AMaBWYmbXbsCyf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -40,7 +45,7 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/php/notes",
+    "last_opened_file_path": "D:/php/notes/controllers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -52,12 +57,14 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\php\notes\controllers" />
       <recent name="D:\php\vezba\views" />
       <recent name="D:\php\vezba\controllers" />
       <recent name="D:\php\vezba\views\partials" />
       <recent name="D:\php\vezba" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\php\notes\controllers" />
       <recent name="D:\php\vezba\controllers" />
       <recent name="D:\php\vezba\views\partials" />
       <recent name="D:\php\vezba\views" />
@@ -84,6 +91,7 @@
       <workItem from="1727608461220" duration="220000" />
       <workItem from="1727608697094" duration="3562000" />
       <workItem from="1727613034983" duration="1181000" />
+      <workItem from="1727616201457" duration="3115000" />
     </task>
     <servers />
   </component>
