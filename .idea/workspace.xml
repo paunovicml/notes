@@ -4,10 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb21739f-36d9-43b9-bba1-bdeac76123f1" name="Changes" comment="Reformat code, custom Database class methods, func. authorize">
+    <list default="true" id="eb21739f-36d9-43b9-bba1-bdeac76123f1" name="Changes" comment="Note Create page">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router.php" beforeDir="false" afterPath="$PROJECT_DIR$/router.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/note-create.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/note-create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/notes.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/notes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/note-create.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/note-create.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/note.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/note.view.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/views/notes.view.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/notes.view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/partials/head.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/partials/head.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,23 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/php/notes/controllers",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.webide.settings.project.settings.php",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/php/notes/controllers&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\php\notes\controllers" />
@@ -97,7 +101,8 @@
       <workItem from="1727638584513" duration="37000" />
       <workItem from="1727648704149" duration="730000" />
       <workItem from="1727726808907" duration="3687000" />
-      <workItem from="1727970682494" duration="621000" />
+      <workItem from="1727970682494" duration="12296000" />
+      <workItem from="1728244980517" duration="2141000" />
     </task>
     <task id="LOCAL-00001" summary="Controllers, functions, router">
       <option name="closed" value="true" />
@@ -131,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727740036737</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Note Create page">
+      <option name="closed" value="true" />
+      <created>1727971337381</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727971337381</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +165,7 @@
     <MESSAGE value="Controllers, functions, router" />
     <MESSAGE value="class Database, PDO, notes &amp; note pages" />
     <MESSAGE value="Reformat code, custom Database class methods, func. authorize" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reformat code, custom Database class methods, func. authorize" />
+    <MESSAGE value="Note Create page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Note Create page" />
   </component>
 </project>
